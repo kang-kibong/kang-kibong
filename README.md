@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llbllhllk&theme=algolia&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llbllhllk&theme=nightowl&show_icons=true)
 
 
 <!--

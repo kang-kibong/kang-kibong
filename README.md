@@ -1,10 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=llbllhllk&fontSize=90)
 ## Hi there 👋
 
 - 👩🏻‍💻 I'm a computer science engineering student at CNU
 - 🌱 My goal is to be a frontend developer!
-- 📫 How to reach me: black1663@naver.com
+- 📫 How to reach me: black1663@naver.com   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llbllhllk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llbllhllk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 
 <!--
 **llbllhllk/llbllhllk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

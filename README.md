@@ -1,3 +1,9 @@
+# Hi there 👋
+👩🏻‍💻 I'm a computer science engineering student at CNU
+🌱 My goal is to be a backend developer and DevOps!
+📫 How to reach me: ksl2950@gmail.com
+🤍 My Blog : https://ksl2950.tistory.com/
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llbllhllk&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llbllhllk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,9 +1,8 @@
-# Hi there 👋
+## Hi there 👋
 
 - 👩🏻‍💻 I'm a computer science engineering student at CNU
-- 🌱 My goal is to be a frontend developer and DevOps!
+- 🌱 My goal is to be a frontend developer!
 - 📫 How to reach me: black1663@naver.com
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llbllhllk&show_icons=true&theme=buefy)
 

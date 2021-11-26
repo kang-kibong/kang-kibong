@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 - 👩🏻‍💻 I'm a computer science engineering student at CNU
-- 🌱 My goal is to be a frontend developer!
+- 🌱 My goal is to be a fullstack developer!
 - 📫 How to reach me: black1663@naver.com   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llbllhllk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   

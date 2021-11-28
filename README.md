@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Hello, I'm ByeongHyeon👋</h1>
+ <h1>👋 Hello, I'm ByeongHyeon</h1>
  
   👩🏻‍💻 I'm a computer science engineering student at CNU
  

@@ -9,7 +9,7 @@
 </div>
    
   
-  
+   
 <h2 align="center">🌟 Front-end Stack 🌟</h2>
 <div align="center">
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>

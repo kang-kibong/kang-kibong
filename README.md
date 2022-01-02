@@ -36,8 +36,4 @@
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-
- 
- 
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llbllhllk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>

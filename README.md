@@ -1,3 +1,8 @@
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fllbllhllk&count_bg=%239D8AFF&title_bg=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+	
+  </div>
 <div align="center">
  <h1>👋 Hello, I'm ByeongHyeon</h1>
  

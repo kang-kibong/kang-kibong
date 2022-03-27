@@ -10,7 +10,7 @@
       
      
    
-<h2 align="center">🌟 Front-end Stack 🌟</h2>
+<h2 align="center">🌟 Front-end Stack 🌟</h2> 
 <div align="center">
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>

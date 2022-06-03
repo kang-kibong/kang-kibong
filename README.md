@@ -2,7 +2,7 @@
  <h1>👋 Hello, I'm ByeongHyeon</h1> 
  
   👨🏻‍💻 I'm a computer science engineering student at CNU   
- 
+  
   🌱 My goal is to be a fullstack developer!
 
   📫 How to reach me: black1663@naver.com     

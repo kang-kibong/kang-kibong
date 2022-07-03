@@ -5,7 +5,7 @@
   
   🌱 My goal is to be a fullstack developer! 
  
-  📫 How to reach me: black1663@naver.com     
+  📫 How to reach me: black1663@naver.com      
 </div>    
           
           

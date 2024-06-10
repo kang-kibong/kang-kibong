@@ -1,7 +1,7 @@
 ```javascript
 let introduce = {
   name: '강병현 (Byeonghyeon Kang)',
-  age: 25,
+  age: 26,
   interest: 'Frontend',
   stack: ['HTML5', 'CSS', 'JavaScript', 'TypeScript', 'React', 'React Native', 'Redux', 'MobX', 'NextJS'],
   tools: ['Figma', 'Slack', 'Notion'],

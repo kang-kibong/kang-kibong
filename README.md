@@ -20,6 +20,6 @@ let contributors = ['react-icons'];
 let contact = {
   email: 'byeonghyeon.dev@gmail.com',
   tistory: 'https://llbllhllk.tistory.com/',
-  github.io: 'https://kang-kibong.github.io/'
+  "github.io": 'https://kang-kibong.github.io/'
 };
 ```

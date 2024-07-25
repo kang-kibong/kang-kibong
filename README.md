@@ -3,7 +3,8 @@ let profile = {
   name: '강병현 (Byeonghyeon Kang)',
   nickname: 'kang kibong',
   age: 26,
-  interests: ['Frontend']
+  interests: ['Frontend'],
+  blog: 'https://kang-kibong.github.io/'
 };
 
 let skills = {
@@ -12,14 +13,8 @@ let skills = {
   stylings: ['SCSS/Sass', 'Emotion', 'tailwindcss'],
   testingTools: ['Jest', 'Storybook'],
   tools: ['Figma', 'Slack', 'Notion', 'Git'],
-  devops: ['Netlify', 'Vercel']
+  devOps: ['Netlify', 'Vercel']
 };
 
-let contributors = ['react-icons'];
-
-let contact = {
-  email: 'byeonghyeon.dev@gmail.com',
-  tistory: 'https://llbllhllk.tistory.com/',
-  "github.io": 'https://kang-kibong.github.io/'
-};
+let contributions = ['react-icons'];
 ```

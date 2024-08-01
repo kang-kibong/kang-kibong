@@ -9,7 +9,7 @@ let profile = {
 
 let skills = {
   languages: ['JavaScript(ES6)', 'TypeScript'],
-  frontends: ['React', 'Redux(redux-toolkit)', 'React Query', 'React Native', 'Next.js(App Router)'],
+  frontends: ['React', 'Redux(redux-toolkit)', 'React Query', 'React Native'],
   stylings: ['SCSS/Sass', 'Emotion', 'tailwindcss'],
   testingTools: ['Jest', 'Storybook'],
   tools: ['Figma', 'Slack', 'Notion', 'Git'],

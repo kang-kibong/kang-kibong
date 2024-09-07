@@ -15,7 +15,7 @@ let profile = {
 
 let skills = {
   languages: ['JavaScript(ES6)', 'TypeScript'],
-  frontends: ['React', 'Redux(RTK)', 'React Query'],
+  frontends: ['React', 'Redux(RTK)', 'React Query', 'zustand'],
   stylings: ['SCSS/Sass', 'Emotion', 'tailwindcss'],
   testings: ['Jest', 'RTL', 'MSW', 'Storybook'],
   tools: ['Figma', 'Slack', 'Notion'],

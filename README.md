@@ -7,7 +7,7 @@ let profile = {
 
 let skills = {
   languages: ['JavaScript(ES6)', 'TypeScript'],
-  frontends: ['React', 'NextJS', 'Redux(RTK)', 'zustand', 'TasnStack Query', 'RHF', 'zod', 'i18n'],
+  frontends: ['React', 'NextJS', 'Redux(RTK)', 'zustand', 'TanStack Query', 'RHF', 'zod', 'i18n'],
   stylings: ['styled-component', 'tailwindcss'],
   testings: ['Jest', 'RTL', 'MSW', 'Storybook'],
   tools: ['Figma', 'Slack', 'Notion'],
